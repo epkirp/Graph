@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crossplot</string>
+    <string name="step">step:</string>
+    <string name="time">time:</string>
+
+    <string name="start">start</string>
+    <string name="pause">pause</string>
+</resources>
